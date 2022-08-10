@@ -1,6 +1,7 @@
-# user_modeling
-A collection of user models and methods for fitting and selecting.
+# Corati Models
 
-Best example to start with is gaze_based_model and the associated publication.
+A repository of computationally rational models of cognition and associated modelling work. 
+
+
 
 
