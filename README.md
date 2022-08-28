@@ -1,11 +1,15 @@
-# Corati Models
+# Computational Rationality ("CORATI") Models
 
-A repository of computationally rational models of cognition and associated modelling work. 
+This page provides resources for creating Python models of interactive human behavior following the theory of computational rationality. Computational rationality brings the familiar idea of cognitive architectures together with the idea of bounded optimality from machine learning. The key idea is that interactive behavior emerges as a consequence of a control policy that is optimally adapted to subjective preferences and to bounds, where the preferences include perceived gains and costs, among them the costs of error, and the bounds are imposed by both an internal environment (the mind) and an external environment (including a device). Contrary to regular reinforcement learning models, in computational rationality the control policy that is adapted to these bounds interacts with the external environment not directly but only via its own internal, or cognitive, environment. The view is called “computational rationality” because the control policy used to predict interaction is the “rational” (or optimal) policy within the limits imposed by the computations available to the mind.
+
+## Overview
 
 
 
 
-# SELECTED BIBLIOGRAPHY (AUG 28, 2022)
+## Selected Bibliography (Aug 28, 2022)
+
+The most up-to-date review is given in [a recent CHI paper](https://dl.acm.org/doi/abs/10.1145/3491102.3517739). 
 
 ### HCI APPLICATIONS
 
