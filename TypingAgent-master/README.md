@@ -1,3 +1,7 @@
+# Corati note
+
+This is a frozen clone of the touchscreen typing model, made 2022-08-31. This version will receive major upgrades, and the version with latest updates can be found at https://github.com/aditya02acharya/TypingAgent/tree/master/src
+
 # Touchscreen Typing as Optimal Adaptation
 
 This project presents a computational model of how people type on touchscreen keyboards.
