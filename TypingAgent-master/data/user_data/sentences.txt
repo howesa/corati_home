@@ -1,0 +1,76 @@
+NUMBER,SENTENCE
+58,sujuiko matkasi hyvin
+46,voinko pitää tämän
+39,hanna ottaa vastuun
+53,se tuli tarpeeseen
+57,olen hyvin väsynyt
+65,hyvää viikonloppua
+20,lähetätkö sähköpostia
+42,mitä eroa näillä on
+50,olen sopinut jo asian
+75,kiitos hyvää työtä
+28,puhutaan maanantaina
+25,halusin vain tarkistaa
+40,hyväksyin sen jo
+67,nähdään siellä pian
+29,palauta raportti pian
+27,kokeilen uudestaan
+32,voitko auttaa minua
+21,tarvitsetko sen tänään
+45,voimme juoda viiniä
+22,voinko auttaa mitenkään
+8,tämä on arkaluontoista
+33,tällä ei ole kova kiire
+5,kiitos vastauksestasi
+2,kävin lääkärissä eilen
+47,haluatko syödä lounasta
+61,voiko sitä enää korjata
+68,olen avoin kaikelle
+49,en tarvitse lahjoja
+72,voitko jo paremmin
+11,mikä sinulla on vialla
+70,kävin ostoksilla tänään
+52,pitääkö meidän jutella
+9,tuletko kanssamme
+18,kuinka hän pärjää siellä
+51,pitääkö minun ajaa autoa
+60,älä ota häntä mukaan
+41,oletko aivan varma
+62,tarkoititko yliopistoa
+44,olen avoin ehdotuksille
+66,mitä sinä luulet
+64,näitkö minun viestini
+35,olen töissä huomenna
+14,pääsen perille tunnissa
+63,se on tavanomaista
+23,ei tehdä tästä ongelmaa
+55,lähetä paperit minulle
+13,älä tee siitä ongelmaa
+38,tiedätkö tästä mitään
+12,minkä niistä valitsit
+74,onko hän valmis vielä
+17,hän oli yläkerrassa
+24,äänestän jälkimmäistä
+48,kiitos kaikesta avusta
+19,totuttelen tähän vielä
+34,tavataan keskustassa
+73,meidät otettiin vastaan
+1,palaan asiaan tänään
+43,olen lomalla heinäkuussa
+7,tämä on todella hyvä
+6,tuo lienee oikea vastaus
+10,oliko se vahinko
+3,tulen perjantaina
+26,ostitko meille liput
+16,olen lähes sanaton
+4,kuulostaa hyvältä
+36,pidä minut ajan tasalla
+54,soita hänelle huomenna
+69,voisitko käydä kaupassa
+59,en tiennyt mitä tehdä
+15,ota mitä vain voit
+37,olen tulossa sinne
+31,soitan sinulle aamulla
+71,ei ollut edes lähellä
+30,onkohan se jo ohi
+56,tämä näyttää hyvältä

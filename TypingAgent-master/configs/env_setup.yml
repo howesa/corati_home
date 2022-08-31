@@ -1,0 +1,19 @@
+name: typing
+dependencies:
+  - python=3.7
+  - numpy
+  - opencv
+  - matplotlib
+  - jupyter
+  - pandas
+  - python-levenshtein
+  - pip:
+      - gym==0.15.3
+      - chainer
+      - chainerrl
+      - tqdm
+      - PyYAML
+      - shelljob
+      - flask
+      - python-dotenv
+      - ruamel.yaml

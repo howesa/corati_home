@@ -1,0 +1,9 @@
+name: "test keyboard"
+layout_file: "finnish_layout.npy"
+config:
+  keyboard_start_loc: [563, 1956] # in pixels
+  key_width: 131 # width of a key in pixels in device.
+  key_height: 230 # height of a key in pixels in device image.
+  key_height_m: 0.01006 # height of the key in meters as used in "How We Type: Eye and Finger Movement Strategies in Mobile Typing"
+  user_distance: 0.3 # Distance of user from the device in real experiment in degrees.
+  key_count: 32 # Total number of usable keys in the device image

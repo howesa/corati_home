@@ -1,0 +1,66 @@
+vision:
+  reward: 5
+  discount: 0.99
+  learning_rate: 0.0
+  epsilon: 1.0
+  episodes: 0
+  log_file: 'VisionAgent_test.csv'
+  log_interval: 0
+
+finger:
+  reward: 5
+  discount: 0.99
+  learning_rate: 0.0
+  epsilon: 0.0
+  episodes: 0
+  log_file: 'FingerAgent_test.csv'
+  log_interval: 10000
+  sat_desired: [0.9, 0.5, 0.1]
+  sat_true: [0.215, 0.244, 0.266, 0.285, 0.305] #[0.215, 0.305, 0.566, 0.805, 0.915]
+  action_type: ['Ballistic', 'Peck']
+  transition: 'FingerAgent_Transitions.csv'
+  transition_samples: 1000
+  observation_probability: 0.9
+  optimizer_name: 'MomentumSGD' # options: Adam, RMSprop, MomentumSGD
+  n_units: 512
+  dropout_ratio: 0.0
+  device_id: 0
+  pre_load: True
+  gpu: False
+  save_path: 'data/models/finger'
+  replay_buffer: 100000
+  typing_accuracy: 0.1
+  proofread_duration_mean: 0.50
+  proofread_duration_sd: 0.44
+
+proofread:
+  reward: 5
+  discount: 0.99
+  learning_rate: 0.01
+  epsilon: 0.9
+  episodes: 3000000
+  log_file: 'proofread_learning.csv'
+  log_interval: 10000
+  action_type: ['Proofread']
+  observation_probability: 0.7
+  sat_true: [0.215, 0.244, 0.266, 0.285, 0.305]
+  error_probability: [0.02, 0.04, 0.06, 0.08, 0.10]
+
+supervisor:
+  reward: 5
+  learning_rate: 2.5e-4
+  epsilon: 0.1
+  episodes: 30000000
+  log_file: 'supervisor_learning.csv'
+  log_interval: 10000
+  sat_desired: [0.9, 0.5, 0.1]
+  sat_true: [0.215, 0.244, 0.266, 0.285, 0.305]
+  action_type: ['type_1', 'type_2', 'type_3', 'proofread_1', 'proofread_2', 'proofread_3']
+  optimizer_name: 'Adam' # options: Adam, RMSprop, MomentumSGD
+  n_units: 64
+  dropout_ratio: 0.1
+  device_id: 0
+  pre_load: True
+  gpu: False
+  save_path: 'data/models/supervisor'
+  corpus: 'sentences.txt'

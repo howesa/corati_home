@@ -1,0 +1,6 @@
+app: "TypingAgent"
+version: "0.2(alpha)"
+
+device_config: "device_config.yml"
+training_config: "training_config.yml"
+testing_config: "evaluation_config.yml"
