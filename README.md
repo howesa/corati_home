@@ -1,15 +1,21 @@
-# Computational Rationality ("CORATI") Models
+# Computational Rationality ("corati") Models
 
-This page provides resources for creating Python models of interactive human behavior following the theory of computational rationality. Computational rationality brings the familiar idea of cognitive architectures together with the idea of bounded optimality from machine learning. The key idea is that interactive behavior emerges as a consequence of a control policy that is optimally adapted to subjective preferences and to bounds, where the preferences include perceived gains and costs, among them the costs of error, and the bounds are imposed by both an internal environment (the mind) and an external environment (including a device). Contrary to regular reinforcement learning models, in computational rationality the control policy that is adapted to these bounds interacts with the external environment not directly but only via its own internal, or cognitive, environment. The view is called “computational rationality” because the control policy used to predict interaction is the “rational” (or optimal) policy within the limits imposed by the computations available to the mind.
+This page collects resources for creating Python models of computational rationality. Corati offers a new approach to user modeling that is able to generate human-like behavior in digital environments. The approach brings together the idea of cognitive architectures together with the theory of bounded optimality from machine learning. 
 
-## Overview
+* Cognitive scientists: learn how to model cognitive architectures and reward structures within an RL (reinforcement learning) framework. 
+* AI researchers: learn how to use RL to model human behavior.
+* HCI researchers: learn how to create generative models of user behavior.
+
+**What is it?** The key idea is that human interactive behavior emerges as a consequence of a control policy that is optimally adapted to subjective preferences and to bounds, where the preferences include perceived gains and costs, among them the costs of error, and the bounds are imposed by both an internal environment (the mind) and an external environment (including a device). Contrary to regular reinforcement learning models, in computational rationality the control policy that is adapted to these bounds interacts with the external environment not directly but only via its own internal, or cognitive, environment. The view is called “computational rationality” because the control policy used to predict interaction is the “rational” (or optimal) policy within the limits imposed by the computations available to the mind. The most up-to-date review is given in [a recent CHI paper](https://dl.acm.org/doi/abs/10.1145/3491102.3517739). 
 
 
+## Models
 
+* [Multi-attribute decision-making (This is a great tutorial!)](models/multi_attribute_decision_making_desk)
+* [Gaze-based interaction (Proc. CHI'21)](models/gaze_based_interaction)
+* [Typing (Proc. CHI'22)](models/touchscreen-typing)
 
 ## Selected Bibliography (Aug 28, 2022)
-
-The most up-to-date review is given in [a recent CHI paper](https://dl.acm.org/doi/abs/10.1145/3491102.3517739). 
 
 ### HCI APPLICATIONS
 
