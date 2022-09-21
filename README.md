@@ -13,7 +13,7 @@ This page collects resources for creating Python models of computational rationa
 
 * [Multi-attribute decision-making (This is a great tutorial!)](models/multi_attribute_decision_making_desk)
 * [Gaze-based interaction (Proc. CHI'21)](models/gaze_based_interaction)
-* [Typing (Proc. CHI'22)](models/touchscreen-typing)
+* [Typing (Proc. CHI'21)](models/touchscreen-typing)
 
 ## Selected Bibliography (Aug 28, 2022)
 
