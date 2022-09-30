@@ -1,6 +1,8 @@
-# Computational Rationality ("corati") Models
+# Corati: Computationally Rational Models of Human Cognition
 
-This page collects resources for creating Python models of computational rationality. Corati offers a new approach to user modeling that is able to generate human-like behavior in digital environments. The approach brings together the idea of cognitive architectures together with the theory of bounded optimality from machine learning. 
+This repo is a collection of resources for creating Python models of human cognition. The models are based on an approach to user modeling that starts with models of resources -- including perception, action and memory -- and predicts behaviour given the assumption that, while limited by these resources, people are essentially rational. The models brings together the idea of cognitive architectures from psychology with the theory of bounded optimality from machine learning. 
+
+The resources may be useful to a number of communities:
 
 * Cognitive scientists: learn how to model cognitive architectures and reward structures within an RL (reinforcement learning) framework. 
 * AI researchers: learn how to use RL to model human behavior.
