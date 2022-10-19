@@ -16,6 +16,7 @@ The resources may be useful to a number of communities:
 * [Multi-attribute decision-making (This is a great tutorial!)](models/multi_attribute_decision_making_desk)
 * [Gaze-based interaction (Proc. CHI'21)](models/gaze_based_interaction)
 * [Typing (Proc. CHI'21)](models/touchscreen-typing)
+* [User-in-the-box (UIST'22)] (https://github.com/aikkala/user-in-the-box)
 
 ## Selected Bibliography (Aug 28, 2022)
 
