@@ -14,7 +14,7 @@ This repo is a collection of resources for creating Python models of human cogni
 * [Multi-attribute decision-making (A great tutorial)](models/multi_attribute_decision_making_desk)
 * [Gaze-based interaction (Proc. CHI'21)](models/gaze_based_interaction)
 * [Typing (Proc. CHI'21)](models/touchscreen-typing)
-* [Task interleaving (Computational Brain and Behavior 2020)](https://github.com/christophgebhardt/task-switching)
+* [Task interleaving (Computational Brain and Behavior 2020)](https://github.com/christophgebhardt/task-interleaving)
 * [Computationally rational biomechanical user models (Proc. UIST'22)](https://github.com/aikkala/user-in-the-box)
 
 ## Selected Bibliography (Aug 28, 2022)
