@@ -23,7 +23,7 @@ This is a collection of resources for computationally rational models of interac
 
 ## Methods
 
-* [Amortizing corati models (Proc. CHI'23)(https://github.com/hsmoon121/amortized-inference-hci)
+* [Amortizing corati models (Proc. CHI'23](https://github.com/hsmoon121/amortized-inference-hci)
 
 ## Workflow
 
