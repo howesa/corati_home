@@ -19,7 +19,7 @@ This repo is a collection of resources for creating Python models of human cogni
 
 ## Workflow
 
-* [Here is a live paper on Computational rational workflow:](workflow/workflow.pdf)
+* [Here is a live paper on Computational rational workflow](workflow/workflow.pdf)
 
 ## Selected Bibliography (Aug 28, 2022)
 
