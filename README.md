@@ -17,6 +17,10 @@ This repo is a collection of resources for creating Python models of human cogni
 * [Task interleaving (Computational Brain and Behavior 2020)](https://github.com/christophgebhardt/task-interleaving)
 * [Computationally rational biomechanical user models (Proc. UIST'22)](https://github.com/aikkala/user-in-the-box)
 
+## Workflow
+
+* Here is a live paper on Computational rational workflow:(workflow/workflow.pdf)
+
 ## Selected Bibliography (Aug 28, 2022)
 
 ### HCI APPLICATIONS
