@@ -1,21 +1,29 @@
-# Corati: Computationally Rational Models of Human Cognition
+# Corati Home: Computationally Rational Models of Human Cognition
 
-This repo is a collection of resources for creating Python models of human cognition. The models brings together the idea of cognitive architectures from psychology with the theory of bounded optimality from machine learning. The resources may be useful to a number of communities:
+This is a collection of resources for computationally rational models of interactive human behavior. "Corati" models bring together two theories: 1) the theory of cognitive architectures from cognitive science and 2) the theory of bounded optimality from machine learning. The resources may be useful to a number of communities:
 
 * Cognitive scientists: learn how to model cognitive architectures and reward structures and solve the decision problem using RL (reinforcement learning). 
 * AI researchers: learn how to use RL to model human cognition.
 * HCI researchers: learn how to create generative models of user behavior.
 
-**What is it?** The key idea in computational rationality is that human interactive behavior emerges as a consequence of a control policy that is optimally adapted to subjective preferences and to bounds, where the preferences include perceived gains and costs, among them the costs of time spent and errors, and the bounds are imposed by both an internal environment (the mind) and an external environment (including a device). Contrary to regular reinforcement learning models, in computational rationality the control policy that is adapted to these bounds interacts with the external environment not directly but only via its own internal, or cognitive, environment. The view is called “computational rationality” because the control policy used to predict interaction is the “rational” (or optimal) policy within the limits imposed by the computations available to the mind. The most up-to-date review is given in [a recent CHI paper](https://dl.acm.org/doi/abs/10.1145/3491102.3517739). 
+**What is computational rationality?** The key idea is that human interactive behavior emerges as a consequence of a control policy that is optimally adapted to subjective preferences and to bounds, where the preferences include perceived gains and costs, among them the costs of time spent and errors, and the bounds are imposed by both an internal environment (the mind) and an external environment (including a device). Contrary to regular reinforcement learning models, in computational rationality the control policy that is adapted to these bounds interacts with the external environment not directly but only via its own internal, or cognitive, environment. The view is called “computational rationality” because the control policy used to predict interaction is the “rational” (or optimal) policy within the limits imposed by the computations available to the mind. The most up-to-date review is given in [a recent CHI paper](https://dl.acm.org/doi/abs/10.1145/3491102.3517739). 
 
 
+## Tutorials
+
+* [CHI 2023 course on "Cognitive Modeling: From GOMS to Deep Reinforcement Learning"](https://sites.google.com/view/modeling-chi23/home)
+* [Multi-attribute decision-making (A great tutorial notebook)](models/multi_attribute_decision_making_desk)
+  
 ## Models
 
-* [Multi-attribute decision-making (A great tutorial)](models/multi_attribute_decision_making_desk)
 * [Gaze-based interaction (Proc. CHI'21)](models/gaze_based_interaction)
 * [Typing (Proc. CHI'21)](models/touchscreen-typing)
 * [Task interleaving (Computational Brain and Behavior 2020)](https://github.com/christophgebhardt/task-interleaving)
 * [Computationally rational biomechanical user models (Proc. UIST'22)](https://github.com/aikkala/user-in-the-box)
+
+## Methods
+
+* [Amortizing corati models (Proc. CHI'23)(https://github.com/hsmoon121/amortized-inference-hci)
 
 ## Workflow
 
